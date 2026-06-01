@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# TensorFlow / Keras (Logs & Checkpoints)
+logs/
+checkpoints/
+*.ckpt
+
+# Streamlit
+.streamlit/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Note: File model (*.h5) sengaja tidak di-ignore agar bisa di-push ke GitHub.
+# Namun, jika ukuran modelmu lebih dari 100MB (batas file GitHub), silakan uncomment (hapus tanda #) pada baris di bawah ini:
+# *.h5
+# *.keras

@@ -1,0 +1,69 @@
+╔══════════════════════════════════════════════════════════╗
+║  PROJECT 4 — Next Word Prediction (LSTM)                ║
+║  (LSTM · Language Model)                                ║
+╚══════════════════════════════════════════════════════════╝
+
+── SECTION 1: Background & Problem ──────────────────────
+Q1. Apa masalah atau use-case yang ingin diselesaikan proyek ini?
+
+    JAWABAN:
+    ________________________________________________________
+    ________________________________________________________
+    ________________________________________________________
+
+Q2. Kenapa memilih LSTM daripada RNN biasa?
+
+    JAWABAN:
+    ________________________________________________________
+    ________________________________________________________
+
+── SECTION 2: Dataset & EDA ─────────────────────────────
+Q3. Data teks apa yang kamu pakai untuk training?
+    (Nama buku/corpus, sumber, jumlah karakter/kata)
+
+    JAWABAN:
+    ________________________________________________________
+
+Q4. Berapa ukuran vocabulary (unique words) dalam corpus?
+
+    JAWABAN:  Vocabulary size: ____________
+
+Q5. Bagaimana cara kamu membuat sequence dari teks tersebut?
+    (n-gram? sliding window? panjang sequence berapa?)
+
+    JAWABAN:
+    ________________________________________________________
+    ________________________________________________________
+
+── SECTION 3: Methodology & Modeling ───────────────────
+Q6. Arsitektur model LSTM-nya seperti apa?
+    (Embedding, berapa layer LSTM, berapa unit, Early Stopping?)
+
+    JAWABAN:
+    ________________________________________________________
+    ________________________________________________________
+
+Q7. Berapa training epochs dan bagaimana loss-nya turun?
+
+    JAWABAN:
+    ________________________________________________________
+
+Q8. Apakah ada tantangan teknis yang kamu hadapi?
+
+    JAWABAN:
+    ________________________________________________________
+    ________________________________________________________
+
+── SECTION 4: Impact & Insights ────────────────────────
+Q9. Apa yang bisa dilakukan user di aplikasi Streamlit-mu?
+    (Input apa? Output apa? Berapa kata yang diprediksi?)
+
+    JAWABAN:
+    ________________________________________________________
+    ________________________________________________________
+
+Q10. Apa insight atau kesimpulan paling penting dari proyek ini?
+
+     JAWABAN:
+     ________________________________________________________
+     ________________________________________________________
